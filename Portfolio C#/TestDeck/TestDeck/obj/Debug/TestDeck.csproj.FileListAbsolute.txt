@@ -1,0 +1,7 @@
+C:\Users\jeffr\Desktop\Portfolio\Portfolio C#\TestDeck\TestDeck\bin\Debug\TestDeck.exe.config
+C:\Users\jeffr\Desktop\Portfolio\Portfolio C#\TestDeck\TestDeck\bin\Debug\TestDeck.exe
+C:\Users\jeffr\Desktop\Portfolio\Portfolio C#\TestDeck\TestDeck\bin\Debug\TestDeck.pdb
+C:\Users\jeffr\Desktop\Portfolio\Portfolio C#\TestDeck\TestDeck\obj\Debug\TestDeck.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\Portfolio\Portfolio C#\TestDeck\TestDeck\obj\Debug\TestDeck.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\Desktop\Portfolio\Portfolio C#\TestDeck\TestDeck\obj\Debug\TestDeck.exe
+C:\Users\jeffr\Desktop\Portfolio\Portfolio C#\TestDeck\TestDeck\obj\Debug\TestDeck.pdb
