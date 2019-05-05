@@ -1,0 +1,349 @@
+Welcome to your personal virtual rolodex!
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+list
+
+Adolf, Coors, Beer Manufacturer, Boston MA, 555-2337
+
+Tony, Hansen, Writer, 12 E. St. NY, NY 33333, 555-9999
+
+Alonza, Heard, Mechanic, 123 Anyplace Ave Malden, MA, 555-5678
+
+Alan, Lupine, Vet, 1 Bigelow Ave. Lawrence, MA, 555-7654
+
+Fred, Milton, Sales, 12 Freedom Way Nashua, NH, 555-9981
+
+Seymour, Papert, Lego Professor, MIT, 555-1111
+
+Jewel, Proverb, Landscaper, 34 Washington St. Waltham, MA, 555-3333
+
+Paul, Revere, Radical Revolutionary, 45 Commonwealth Ave. Boston, MA, 555-1776
+
+Jen, Reyes, Graphic artist, 325 Oak Rd Wilmington, MA, 555-4950
+
+Jon, Smyth, Computer Hardware, CMU Computer Services Pittsburgh, PA, 555-1324
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+search
+Enter first name: Alonza
+
+Enter last name: Heard
+
+card found!
+Alonza, Heard, Mechanic, 123 Anyplace Ave Malden, MA, 555-5678
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+view
+Alonza, Heard, Mechanic, 123 Anyplace Ave Malden, MA, 555-5678
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+flip
+Alan, Lupine, Vet, 1 Bigelow Ave. Lawrence, MA, 555-7654
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+search
+Enter first name: Jon
+
+Enter last name: Smyth
+
+card found!
+Jon, Smyth, Computer Hardware, CMU Computer Services Pittsburgh, PA, 555-1324
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+view
+Jon, Smyth, Computer Hardware, CMU Computer Services Pittsburgh, PA, 555-1324
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+remove
+Jon, Smyth, Computer Hardware, CMU Computer Services Pittsburgh, PA, 555-1324
+
+do you want to delete this contact?yes/no
+yes
+contact deleted!
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+view
+Adolf, Coors, Beer Manufacturer, Boston MA, 555-2337
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+add
+
+first name: Matthew
+
+last name: Williams
+
+occupation: Teacher
+
+address: 69 Main St, Acton, MA
+
+phone number: 555-9330
+new contact added.
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+view
+Matthew, Williams, Teacher, 69 Main St, Acton, MA, 555-9330
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+flip
+Adolf, Coors, Beer Manufacturer, Boston MA, 555-2337
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+remove
+Adolf, Coors, Beer Manufacturer, Boston MA, 555-2337
+
+do you want to delete this contact?yes/no
+yes
+contact deleted!
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+view
+Tony, Hansen, Writer, 12 E. St. NY, NY 33333, 555-9999
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+add
+
+first name: Jim
+
+last name: Butler
+
+occupation: Contractor
+
+address: 33 Cedar Lane, Concord, MA
+
+phone number: 555-8535
+new contact added.
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+view
+Jim, Butler, Contractor, 33 Cedar Lane, Concord, MA, 555-8535
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+search
+Enter first name: Jewel
+
+Enter last name: Proverb
+
+card found!
+Jewel, Proverb, Landscaper, 34 Washington St. Waltham, MA, 555-3333
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+view
+Jewel, Proverb, Landscaper, 34 Washington St. Waltham, MA, 555-3333
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+remove
+Jewel, Proverb, Landscaper, 34 Washington St. Waltham, MA, 555-3333
+
+do you want to delete this contact?yes/no
+yes
+contact deleted!
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+view
+Paul, Revere, Radical Revolutionary, 45 Commonwealth Ave. Boston, MA, 555-1776
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+add
+
+first name: Jim
+
+last name: Buter
+
+occupation: Consultant
+
+address: 22 Minuteman St, Lexington, MA
+
+phone number: 555-4422
+new contact added.
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+add
+
+first name: Dan
+
+last name: Butler
+
+occupation: Chauffeur
+
+address: 68 Willow St, Westford, MA
+
+phone number: 555-8493
+new contact added.
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+list
+
+Jim, Buter, Consultant, 22 Minuteman St, Lexington, MA, 555-4422
+
+Jim, Butler, Contractor, 33 Cedar Lane, Concord, MA, 555-8535
+
+Dan, Butler, Chauffeur, 68 Willow St, Westford, MA, 555-8493
+
+Tony, Hansen, Writer, 12 E. St. NY, NY 33333, 555-9999
+
+Alonza, Heard, Mechanic, 123 Anyplace Ave Malden, MA, 555-5678
+
+Alan, Lupine, Vet, 1 Bigelow Ave. Lawrence, MA, 555-7654
+
+Fred, Milton, Sales, 12 Freedom Way Nashua, NH, 555-9981
+
+Seymour, Papert, Lego Professor, MIT, 555-1111
+
+Paul, Revere, Radical Revolutionary, 45 Commonwealth Ave. Boston, MA, 555-1776
+
+Jen, Reyes, Graphic artist, 325 Oak Rd Wilmington, MA, 555-4950
+
+Matthew, Williams, Teacher, 69 Main St, Acton, MA, 555-9330
+
+1)type 'list' to view all contacts
+2)type 'view' to view current contact
+3)type 'flip' to flip to view another contact
+4)type 'add' to add a new contact
+5)type 'remove' to remove current contact
+6)type 'search' to search for a contact
+7)type 'exit' to exit rolodex
+
+
