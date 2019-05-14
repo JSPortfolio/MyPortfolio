@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>A menu of global porportions!</title>
+		<link rel="stylesheet" type="text/css" href="css/mainCSS.css">
+		<script src="js/jquery.min.js"></script>
+		<script>
+			$(document).ready(function(){
+
+				$('.menuItem img').each(function(){
+
+					var imgFile = $(this).attr('src');
+
+					var preloadImage = new Image();
+
+					var imgExt = /(\.\w{3,4}$)/;
+
+					preloadImage.src = imgFile.replace(imgExt,'_flag$1');
+
+
+					$(this).hover(
+							function(){
+								$(this).attr('src',preloadImage.src);
+							},
+
+							function(){
+								$(this).attr('src',imgFile);
+							}
+
+					);//end on
+
+				});//end each
+
+			});//end ready
+		</script>
+	</head>
+	<body>
+		<h1>Menu: Pizza and pizza-related cousins from around the world nobody asked for!</h1>
+		<h2>Please select a pizza from our international menu: made with ingredients
+		of the country the pizza hails from</h2>
+		<h3>For My Project 1, I created a menu of international pizzas where customers
+		who rollover the image of a pizza get the flag of the country the pizza originated
+		in.</h3>
+		
+		<div class="menuItem">
+
+			<h3>Margherita: Classic mozarella and tomato sauce pizza</h3>
+			<img src="images/italy.jpg">
+
+			<h3>Greek: Deepdish with extra cheese</h3>
+			<img src="images/greece.jpg">
+
+			<h3>Khachapuri: Georgian cheese&egg pie</h3>
+			<img src="images/georgia.jpg">
+
+			<h3>Coca: Catalan fruit&meat pie</h3> 
+			<img src="images/spain.jpg">
+
+			<h3>Pissaladiere: French thick-crust onions and anchovy pizza</h3>
+			<img src="images/france.jpg">
+		</div>
+	</body>
+</html>

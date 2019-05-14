@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>personal info for discounts!</title>
+		<link rel="stylesheet" type="text/css" href="css/mainCSS.css">
+		<script src="js/jquery.min.js"></script>
+		<script src="jquery_validate/jquery.validate.min.js"></script>
+		<script>
+			$(document).ready(function(){
+
+				$('#signup').validate({
+					rules:{
+						email:{
+							required:true,
+
+							email:true
+						},
+
+						name:{
+							required:true,
+						},
+
+						creditcard:{
+							required:true,
+
+							creditcard:true
+						}
+					},//end rules
+
+					message:{
+						email:{
+							required:"Please provide an email we can send spam to."
+						},
+
+						name:{
+							required:"Please provide a name, even a fake one."
+						},
+
+						creditcard:{
+							required:"Please provide a legitimate card number we can use to charge stuff to."
+						}
+
+					},//end message
+
+					errorPlacement: function(error, element) { 
+          			error.insertAfter(element);
+    				} 
+
+				})//end validate
+
+			})//end ready
+		</script>
+	</head>
+	<body>
+		<h1>Provide your email for a stream of emails containing discounts and special offers!</h1>
+		<h2>Submit your name, email and phone number to receive special deals your will never actually use!</h2>
+		<h2>Input information and receive a free pissaladiere!</h2>
+	
+	<div>
+		<form action="process.html" method="post" name="signup" id="signup">
+			<label for="name" class="label">Name </label>
+			<input name="name" type="text" id="name" class="required">
+			<br>
+			<label for="email" class="label">Email </label>
+			<input name="email" type="text" id="email" class="required">
+			<br>
+			<label for="creditcard" class="label">CreditCard</label>
+			<input name="creditcard" type="text" id="creditcard" class="required">
+			<h4>Offers to be notified of</h4>
+			<label for="special-2" class="label">Do you wish to be notified of our special two-for-one deals?</label>
+			<input name="special-2" type="checkbox">
+			<br>
+			<label for="personal_drone" class="label">Do you wish to pay $1,000 a year for your personal delivery drone?</label>
+			<input name="personal_drone" type="checkbox" id="personal_drone">
+		</form>
+	</div>
+
+	<div id="submit-info">
+		<input type="submit" name="submit" id="submit" value="submit">
+	</div>
+
+	</body>
+</html>

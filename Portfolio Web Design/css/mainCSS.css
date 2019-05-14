@@ -1,0 +1,92 @@
+body
+{
+	background-color: rgb(101,183,0);
+
+	color: white;
+}
+
+h1 
+{
+	background-color: rgb(255,62, 78);
+}
+
+h2
+{
+	background-color: rgb(255,62,78);
+}
+
+li
+{
+	display: inline;
+
+	float: left;
+
+	background-color: rgb(255, 62, 78);
+
+	padding: 5%;
+
+	font-size: 25px;
+}
+
+li:hover
+{
+	color: rgb(101,183,0);
+}
+
+div
+{
+	width:20em;
+
+	height:20em;
+
+	padding:1em;
+
+}
+
+div h3
+{
+
+	padding: 1em;
+
+	float:left;
+}
+
+div
+{
+	padding: 1.2em;
+}
+
+form input
+{
+	margin: 1em;
+}
+
+a
+{
+	text-decoration: none;
+
+	color: white;
+}
+
+a:hover
+{
+	color: rgb(101,183,0);
+}
+
+img
+{
+	width:50%;
+
+	height:50%;
+
+	padding:2em;
+}
+
+ul .subMenu h4
+{
+	text-align: center;
+
+	padding: 0.8em;
+
+	display: block;
+}

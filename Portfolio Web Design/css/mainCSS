@@ -1,0 +1,11 @@
+body
+{
+	color: rgb(192,187,97);
+}
+
+.navBar
+{
+	text-color: white;
+
+	body-color: rgb(9255,62,78);
+}
